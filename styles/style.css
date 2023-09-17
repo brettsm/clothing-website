@@ -1,3 +1,13 @@
 body {
-    background-image: "#";
+    background-image: url("/Users/brettsmith/repos/clothing-website/img/blue-sky-clouds-image.jpg");
+    display: flex;
+}
+
+.home-middle {
+    display: flex;
+    flex-direction: column;
+}
+
+.title-gif {
+    max-width: 590px;
 }
