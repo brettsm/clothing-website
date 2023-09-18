@@ -48,11 +48,15 @@ body, html {
 a {
     text-decoration: none;
     color: #FDFCF8;
-    text-shadow: 1px 1px 2px ;
+    text-shadow: 1px 1px 2px white;
 }
 
 .star-gif {
     height: 75%;
     width: 75%;
     align-self: center;
+}
+
+.nav-element {
+    font-family: monospace;
 }
