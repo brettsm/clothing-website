@@ -5,5 +5,5 @@ window.addEventListener('load', () => {
     
         welcomeScreen.style.opacity = '0';
         homeScreen.style.opacity = '1';
-    
+        
 });
